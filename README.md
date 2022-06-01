@@ -6,6 +6,7 @@ A MVP of Music app
 2. Music Player
 3. Http package
 4. Waves
+5. Itunes API
 
 # How it looks like 
 
